@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1017980203910",
+    "firebase_url": "https://driverregisteration-default-rtdb.firebaseio.com",
+    "project_id": "driverregisteration",
+    "storage_bucket": "driverregisteration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017980203910:android:c6b2d0720ace5980d03207",
+        "android_client_info": {
+          "package_name": "com.example.photoupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017980203910-vpvilqu2k37c22557e9lub8s72g09psg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCTNd86o7T758VAFf3QPxkdftCourjMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017980203910-vpvilqu2k37c22557e9lub8s72g09psg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
